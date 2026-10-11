@@ -30,6 +30,7 @@ Prazo de integralização: 4 anos (padrão) a 6,5 anos (máximo).
 | [disciplinas.casi.org.br](https://github.com/CA-SI/disciplinas.casi.org.br) | Site do catálogo de disciplinas, com busca e filtros, gerado a partir do repositório acima. |
 | [modelo-documentos-abntex-UFV](https://github.com/CA-SI/modelo-documentos-abntex-UFV) | Guia e modelo LaTeX (abnTeX2) para TCC e trabalhos acadêmicos da UFV, com capa e folhas no padrão da universidade e escolha da edição da ABNT para citações e referências. Pacotes prontos nas [releases](https://github.com/CA-SI/modelo-documentos-abntex-UFV/releases). |
 | [artigo-modelo-abntex-ufv](https://github.com/CA-SI/artigo-modelo-abntex-ufv) | Artigo científico (ABNT NBR 6022) que apresenta o guia e modelo abnTeX2 UFV. |
+| [documento-modelo-abntex-srs](https://github.com/CA-SI/documento-modelo-abntex-srs) | Modelo LaTeX para especificação de requisitos de software (SRS). Derivado de SRS-Tex, sob GPL-3.0-or-later. |
 | [sacsis](https://github.com/CA-SI/sacsis) | Site da SACSIS, Semana Acadêmica de Sistemas de Informação da UFV-CRP (Laravel). *Arquivado.* |
 
 ## Como contribuir
@@ -43,7 +44,9 @@ As contribuições são abertas a estudantes, egressos e professores.
 3. Para enviar uma alteração, faça um *fork*, crie uma *branch*, faça a mudança e abra
    um *pull request*.
 
-Os repositórios ativos usam a licença MIT.
+Consulte a licença de cada repositório antes de reutilizar o material. O modelo
+SRS preserva a GPL-3.0-or-later do projeto original; os demais projetos ativos
+listados acima usam a licença MIT.
 
 ## Contato
 
